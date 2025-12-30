@@ -1,0 +1,56 @@
+# Environment files
+*.env
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Compiled shared libraries / dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+*.idb
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Make / CMake build directories
+/build/
+/bin/
+/Debug/
+/Release/
+/CMakeFiles/
+/CMakeCache.txt
+/*.cmake.user
+/*.cbp.user
+/*.workspace
+
+# Editor-specific files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Env files
+*.env

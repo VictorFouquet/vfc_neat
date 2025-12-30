@@ -1,0 +1,3 @@
+[submodule "include/vendor/vfc_utils"]
+	path = include/vendor/vfc_utils
+	url = https://github.com/VictorFouquet/vfc_utils.git
